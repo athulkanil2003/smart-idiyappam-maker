@@ -32,6 +32,3 @@ Making Idiyappam traditionally requires manual pressing, which is time-consuming
 - Basic Push Button (optional for manual override)
 
 ---
-
-## 📐 Block Diagram
-
